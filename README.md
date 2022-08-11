@@ -10,11 +10,14 @@ It also provides guidance and tutoring for UGC NET paper 1 and Paper 4 Psycholog
 So, I would recommend you checking them out. 
 virtualScholAR
 
+https://virtualscholar.github.io/home/
+
 
 Hello friends,
-jinko bhi ugc net paper 1 ya paper 4 (psychology) ke liye koi gudiance ya notes chahiye to wo ye website check out karo.
-infact ye research topic find out karne, data analysis etc. me bhi help karte hai. 
-Saying it from 1st hand experience. 
+
+jinko bhi ugc net paper 1 ya paper 4 (psychology) ke liye koi gudiance ya notes chahiye to wo VIRTUAL SCHOLR ki website check out karo. infact ye research topic find out karne, data analysis etc. me bhi help karte hai. Saying it from 1st hand experience. it is really good
+
+https://virtualscholar.github.io/home/
 
 
 Working as a CEO of virtual scholAR. An academic and research solutions company that aims at helping students and research scholars with their academic/research queries
