@@ -128,30 +128,30 @@
       <!-- copyright section start -->
       <div class="copyright_section">
         <div class="container">
-          <p class="copyright_text">Copyright 2022 All Right Reserved By.<a href="https://virtualscholar.github.io/home/"> virtual scholAR/a></p>
+          <p class="copyright_text">Copyright 2022 All Right Reserved By.<a href="https://virtualscholar.github.io/home/"> virtual scholAR</a></p>
         </div>
       </div>
       <!-- copyright section end -->
  <div id="CounterVisitor">
-</div>
+   </div>
 
-<script>
-var n = localStorage.getItem('on_load_counter');
+    <script>
+     var n = localStorage.getItem('on_load_counter');
 
-if (n === null) {
-  n = 0;
-}
-n++;
+    if (n === null) {
+      n = 0;
+         }
+       n++;
 
-localStorage.setItem("on_load_counter", n);
+    localStorage.setItem("on_load_counter", n);
 
-nums = n.toString().split('').map(Number);
-document.getElementById('CounterVisitor').innerHTML = '';
-for (var i of nums) {
-  document.getElementById('CounterVisitor').innerHTML += '<span class="counter-item">' + i + '</span>';
-}
+    nums = n.toString().split('').map(Number);
+    document.getElementById('CounterVisitor').innerHTML = '';
+     for (var i of nums) {
+       document.getElementById('CounterVisitor').innerHTML += '<span class="counter-item">' + i + '</span>';
+      }
 
-</script>
+     </script>
    <!-- Javascript files-->
    <script src="js/jquery.min.js"></script>
    <script src="js/popper.min.js"></script>
